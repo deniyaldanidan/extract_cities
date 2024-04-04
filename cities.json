@@ -1,7 +1,7 @@
 [
     {
-        "cityCode": "AP",
-        "cityName": "Andhra Pradesh",
+        "stateCode": "AP",
+        "stateName": "Andhra Pradesh",
         "cities": [
             "Adilabad",
             "Anantapur",
@@ -29,8 +29,8 @@
         ]
     },
     {
-        "cityCode": "AR",
-        "cityName": "Arunachal Pradesh",
+        "stateCode": "AR",
+        "stateName": "Arunachal Pradesh",
         "cities": [
             "Anjaw",
             "Changlang",
@@ -50,8 +50,8 @@
         ]
     },
     {
-        "cityCode": "AS",
-        "cityName": "Assam",
+        "stateCode": "AS",
+        "stateName": "Assam",
         "cities": [
             "Baksa",
             "Barpeta",
@@ -83,8 +83,8 @@
         ]
     },
     {
-        "cityCode": "BR",
-        "cityName": "Bihar",
+        "stateCode": "BR",
+        "stateName": "Bihar",
         "cities": [
             "Araria",
             "Arwal",
@@ -128,8 +128,8 @@
         ]
     },
     {
-        "cityCode": "CG",
-        "cityName": "Chhattisgarh",
+        "stateCode": "CG",
+        "stateName": "Chhattisgarh",
         "cities": [
             "Bastar",
             "Bijapur",
@@ -152,23 +152,23 @@
         ]
     },
     {
-        "cityCode": "DN",
-        "cityName": "Dadra and Nagar Haveli",
+        "stateCode": "DN",
+        "stateName": "Dadra and Nagar Haveli",
         "cities": [
             "Dadra and Nagar Haveli"
         ]
     },
     {
-        "cityCode": "DD",
-        "cityName": "Daman and Diu",
+        "stateCode": "DD",
+        "stateName": "Daman and Diu",
         "cities": [
             "Daman",
             "Diu"
         ]
     },
     {
-        "cityCode": "DL",
-        "cityName": "Delhi",
+        "stateCode": "DL",
+        "stateName": "Delhi",
         "cities": [
             "Central Delhi",
             "East Delhi",
@@ -182,16 +182,16 @@
         ]
     },
     {
-        "cityCode": "GA",
-        "cityName": "Goa",
+        "stateCode": "GA",
+        "stateName": "Goa",
         "cities": [
             "North Goa",
             "South Goa"
         ]
     },
     {
-        "cityCode": "GJ",
-        "cityName": "Gujarat",
+        "stateCode": "GJ",
+        "stateName": "Gujarat",
         "cities": [
             "Ahmedabad",
             "Amreli district",
@@ -222,8 +222,8 @@
         ]
     },
     {
-        "cityCode": "HR",
-        "cityName": "Haryana",
+        "stateCode": "HR",
+        "stateName": "Haryana",
         "cities": [
             "Ambala",
             "Bhiwani",
@@ -249,8 +249,8 @@
         ]
     },
     {
-        "cityCode": "HP",
-        "cityName": "Himachal Pradesh",
+        "stateCode": "HP",
+        "stateName": "Himachal Pradesh",
         "cities": [
             "Bilaspur",
             "Chamba",
@@ -267,8 +267,8 @@
         ]
     },
     {
-        "cityCode": "JK",
-        "cityName": "Jammu and Kashmir",
+        "stateCode": "JK",
+        "stateName": "Jammu and Kashmir",
         "cities": [
             "Anantnag",
             "Badgam",
@@ -295,8 +295,8 @@
         ]
     },
     {
-        "cityCode": "JH",
-        "cityName": "Jharkhand",
+        "stateCode": "JH",
+        "stateName": "Jharkhand",
         "cities": [
             "Bokaro",
             "Chatra",
@@ -325,8 +325,8 @@
         ]
     },
     {
-        "cityCode": "KA",
-        "cityName": "Karnataka",
+        "stateCode": "KA",
+        "stateName": "Karnataka",
         "cities": [
             "Bagalkot",
             "Bangalore Rural",
@@ -361,8 +361,8 @@
         ]
     },
     {
-        "cityCode": "KL",
-        "cityName": "Kerala",
+        "stateCode": "KL",
+        "stateName": "Kerala",
         "cities": [
             "Alappuzha",
             "Ernakulam",
@@ -381,8 +381,8 @@
         ]
     },
     {
-        "cityCode": "MP",
-        "cityName": "Madhya Pradesh",
+        "stateCode": "MP",
+        "stateName": "Madhya Pradesh",
         "cities": [
             "Alirajpur",
             "Anuppur",
@@ -437,8 +437,8 @@
         ]
     },
     {
-        "cityCode": "MH",
-        "cityName": "Maharashtra",
+        "stateCode": "MH",
+        "stateName": "Maharashtra",
         "cities": [
             "Ahmednagar",
             "Akola",
@@ -478,8 +478,8 @@
         ]
     },
     {
-        "cityCode": "MN",
-        "cityName": "Manipur",
+        "stateCode": "MN",
+        "stateName": "Manipur",
         "cities": [
             "Bishnupur",
             "Churachandpur",
@@ -493,8 +493,8 @@
         ]
     },
     {
-        "cityCode": "ML",
-        "cityName": "Meghalaya",
+        "stateCode": "ML",
+        "stateName": "Meghalaya",
         "cities": [
             "East Garo Hills",
             "East Khasi Hills",
@@ -506,8 +506,8 @@
         ]
     },
     {
-        "cityCode": "MZ",
-        "cityName": "Mizoram",
+        "stateCode": "MZ",
+        "stateName": "Mizoram",
         "cities": [
             "Aizawl",
             "Champhai",
@@ -520,8 +520,8 @@
         ]
     },
     {
-        "cityCode": "NL",
-        "cityName": "Nagaland",
+        "stateCode": "NL",
+        "stateName": "Nagaland",
         "cities": [
             "Dimapur",
             "Kohima",
@@ -534,8 +534,8 @@
         ]
     },
     {
-        "cityCode": "OR",
-        "cityName": "Orissa",
+        "stateCode": "OR",
+        "stateName": "Orissa",
         "cities": [
             "Angul",
             "Boudh (Bauda)",
@@ -570,8 +570,8 @@
         ]
     },
     {
-        "cityCode": "PY",
-        "cityName": "Pondicherry (Puducherry)",
+        "stateCode": "PY",
+        "stateName": "Pondicherry (Puducherry)",
         "cities": [
             "Karaikal",
             "Mahe",
@@ -580,8 +580,8 @@
         ]
     },
     {
-        "cityCode": "PB",
-        "cityName": "Punjab",
+        "stateCode": "PB",
+        "stateName": "Punjab",
         "cities": [
             "Amritsar",
             "Barnala",
@@ -608,8 +608,8 @@
         ]
     },
     {
-        "cityCode": "RJ",
-        "cityName": "Rajasthan",
+        "stateCode": "RJ",
+        "stateName": "Rajasthan",
         "cities": [
             "Ajmer",
             "Alwar",
@@ -647,8 +647,8 @@
         ]
     },
     {
-        "cityCode": "SK",
-        "cityName": "Sikkim",
+        "stateCode": "SK",
+        "stateName": "Sikkim",
         "cities": [
             "East Sikkim",
             "North Sikkim",
@@ -657,8 +657,8 @@
         ]
     },
     {
-        "cityCode": "TN",
-        "cityName": "Tamil Nadu",
+        "stateCode": "TN",
+        "stateName": "Tamil Nadu",
         "cities": [
             "Ariyalur",
             "Chennai",
@@ -694,8 +694,8 @@
         ]
     },
     {
-        "cityCode": "TR",
-        "cityName": "Tripura",
+        "stateCode": "TR",
+        "stateName": "Tripura",
         "cities": [
             "Dhalai",
             "North Tripura",
@@ -705,8 +705,8 @@
         ]
     },
     {
-        "cityCode": "UP",
-        "cityName": "Uttar Pradesh",
+        "stateCode": "UP",
+        "stateName": "Uttar Pradesh",
         "cities": [
             "Agra",
             "Allahabad",
@@ -785,8 +785,8 @@
         ]
     },
     {
-        "cityCode": "UK",
-        "cityName": "Uttarakhand",
+        "stateCode": "UK",
+        "stateName": "Uttarakhand",
         "cities": [
             "Almora",
             "Bageshwar",
@@ -804,8 +804,8 @@
         ]
     },
     {
-        "cityCode": "WB",
-        "cityName": "West Bengal",
+        "stateCode": "WB",
+        "stateName": "West Bengal",
         "cities": [
             "Birbhum",
             "Bankura",

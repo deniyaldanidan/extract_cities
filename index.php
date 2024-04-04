@@ -5,12 +5,12 @@ $cities_array = require './cities.php';
 $my_cities = [];
 
 foreach ($cities_array as $state => $cities) {
-    $cityName = preg_split("/\s\(\w{2}\)/", $state)[0];
-    preg_match("/\(\w{2}\)/", $state, $cityCodeExtract);
-    $cityCode = preg_split("/[\(\)]/", $cityCodeExtract[0])[1];
+    $stateName = preg_split("/\s\(\w{2}\)/", $state)[0];
+    preg_match("/\(\w{2}\)/", $state, $stateCodeExtract);
+    $stateCode = preg_split("/[\(\)]/", $stateCodeExtract[0])[1];
     $city_array = [
-        "cityCode" => $cityCode,
-        "cityName" => $cityName,
+        "stateCode" => $stateCode,
+        "stateName" => $stateName,
         "cities" => $cities
     ];
     array_push($my_cities, $city_array);
