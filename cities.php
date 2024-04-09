@@ -18,7 +18,6 @@ return [
         'Nalgonda',
         'Nizamabad',
         'Ongole',
-        'Hyderabad',
         'Srikakulam',
         'Nellore',
         'Visakhapatnam',
